@@ -1,0 +1,84 @@
+Comentario 1:
+Texto: Álvaro, un ángel que salvó 13 personas, sacrificándose por ellos. Descansa en paz.
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 2:
+Texto: Vi la película me Dio mucha pena, los padres hicieron lo que pudieron en torno a  la justicia vendida del Perú.
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 3:
+Texto: Vi la película y no pude evitar las lágrimas.
+Justicia para los 29 chicos
+Sentimiento: {'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.296}
+
+Comentario 4:
+Texto: Indignante como la corrupción tiene tanto poder , me da mucha tristeza por esos 29 jóvenes y las familias afectadas , pero tarde o temprano se hará justicia porque todo se paga en esta vida
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 5:
+Texto: Realmente la justicia en el Perú está podrida ..muy triste lo que pasaron los padres ..muy buena película... No sé liberarán de la justicia divina
+Sentimiento: {'neg': 0.084, 'neu': 0.916, 'pos': 0.0, 'compound': -0.296}
+
+Comentario 6:
+Texto: Da igual si son familias de muchos recursos economicos o no! Lo que se debe hacer es JUSTICIA! SIN DISCRIMINACIONES .
+Sentimiento: {'neg': 0.295, 'neu': 0.705, 'pos': 0.0, 'compound': -0.7974}
+
+Comentario 7:
+Texto: Q.E.P.D mi amado hermano Álvaro
+Siempre recordaré tu compañía y consejos Un día nos volveremos a reunir 
+Descansa tranquilo Hermanito
+Tu hermanita aguardara ese reencuentro con amor
+Sentimiento: {'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.6124}
+
+Comentario 8:
+Texto: Lo que más duele es que 20 años después no hay justicia🇵🇪🤮
+Sentimiento: {'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}
+
+Comentario 9:
+Texto: No puedo imaginar el dolor que estos 29 padres sienten y no sólo dolor si no que también la pesadilla que deben de vivir todos los días al ver que la muerte de sus hijos no tiene justicia.
+Sentimiento: {'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.7783}
+
+Comentario 10:
+Texto: ese angel que la salvo se llama Alvaro Sayan el bartender heroe que entrego su vida por salvar la de los demas  investiguen informense  q.e.p.d
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 11:
+Texto: Estoy aqui porque vi la pelicula en Netflix super buena y a la vez triste por las muertes que hubieron
+Sentimiento: {'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.5994}
+
+Comentario 12:
+Texto: Vi, la película, y me lleno de mucha tristeza,  Dios de mucha resignación, a todas la familias, q perdieron asus hijos, mucha fuerza🙏💪🥺
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 13:
+Texto: Hoy vi la película Utopía en Netflix y me dio mucha pena...buena película, recomendada
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 14:
+Texto: Que pesadilla han vivido estos padres😭 tan fuertes que son, han soportado cosas inimaginables.
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 15:
+Texto: es tan lamentable ver que en este país no hay justicia ni para pobres ni para ricos, las justicia de este país esta vendida
+Sentimiento: {'neg': 0.176, 'neu': 0.824, 'pos': 0.0, 'compound': -0.5719}
+
+Comentario 16:
+Texto: Después de ver la película he venido a saber más del caso...🥺
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 17:
+Texto: Esto me hace acordar a cromañón igual de injusto mucha fuerza y ojalá la justicia divina les alcanze a los culpables
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 18:
+Texto: 2018 hoy vi la peli de UTOPIA y...me da mucha pena...quiero justicia...:-(  :'(  :' -(
+Sentimiento: {'neg': 0.186, 'neu': 0.814, 'pos': 0.0, 'compound': -0.4939}
+
+Comentario 19:
+Texto: Alvaro, Realmente eres un ángel!
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Comentario 20:
+Texto: Ayer vi el film que manera de doler estas muertes más aún ver tanta corrupción y lo peor que todo sigue igual murieron inocentes y una justicia cada vez más indolente
+Sentimiento: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
